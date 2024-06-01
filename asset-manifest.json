@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Give-me-rock/static/css/main.21c4467e.css",
+    "main.js": "/Give-me-rock/static/js/main.ef5be08b.js",
+    "static/media/wallpaper.jpg": "/Give-me-rock/static/media/wallpaper.24b1709a2cd4a27b2101.jpg",
+    "index.html": "/Give-me-rock/index.html",
+    "main.21c4467e.css.map": "/Give-me-rock/static/css/main.21c4467e.css.map",
+    "main.ef5be08b.js.map": "/Give-me-rock/static/js/main.ef5be08b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.21c4467e.css",
+    "static/js/main.ef5be08b.js"
+  ]
+}
