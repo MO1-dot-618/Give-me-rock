@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.App {
+    display: flex; /* Enable Flexbox */
+    justify-content: center; /* Center horizontally */
+    align-items: center; /* Center vertically */
+    background-image: url('../../public/pic/wallpaper.jpg');
+    background-size: cover; /* Ensures the image covers the entire window */
+    background-position: center; /* Centers the image */
+    background-repeat: no-repeat; /* Prevents the image from repeating */
+    height: 100vh; /* Ensures the div covers the entire viewport height */
+    width: 100%;
+  }
+
+.game-container {
+    width: 600px;
+    height: 400px;
+    padding: 40px;
+    background: linear-gradient(to right, #ca5429ec, #004c26ef);
+    border-radius: 20px;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+    display: grid;
+    justify-content: center; /* Center horizontally */
+    align-items: center;
+}
+
+.game-container p {
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    padding-bottom: 10px;
+}
+
+.game-container button {
+    background-color: #ca5329;
+    color: black;
+}
