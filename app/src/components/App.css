@@ -8,7 +8,7 @@
     display: flex; /* Enable Flexbox */
     justify-content: center; /* Center horizontally */
     align-items: center; /* Center vertically */
-    background-image: url('../../public/pic/wallpaper.jpg');
+    background-image: url('../assets/pic/wallpaper.jpg');
     background-size: cover; /* Ensures the image covers the entire window */
     background-position: center; /* Centers the image */
     background-repeat: no-repeat; /* Prevents the image from repeating */
