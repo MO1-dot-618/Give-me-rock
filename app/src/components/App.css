@@ -18,7 +18,7 @@
 
 .game-container {
     width: 600px;
-    height: 400px;
+    height: 600px;
     padding: 40px;
     background: linear-gradient(to right, #ca5429ec, #004c26ef);
     border-radius: 20px;
@@ -27,6 +27,8 @@
     justify-content: center; /* Center horizontally */
     align-items: center;
 }
+
+
 
 .game-container p {
     font-size: 20px;
