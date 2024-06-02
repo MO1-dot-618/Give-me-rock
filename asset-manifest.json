@@ -1,23 +1,28 @@
 {
   "files": {
-    "main.css": "/Give-me-rock/static/css/main.21c4467e.css",
-    "main.js": "/Give-me-rock/static/js/main.1d68dc05.js",
+    "main.css": "/Give-me-rock/static/css/main.9022d322.css",
+    "main.js": "/Give-me-rock/static/js/main.775ddc71.js",
     "static/media/wallpaper.jpg": "/Give-me-rock/static/media/wallpaper.24b1709a2cd4a27b2101.jpg",
     "static/media/lose.png": "/Give-me-rock/static/media/lose.f6dba8591c9a9d72bf39.png",
     "static/media/draw.png": "/Give-me-rock/static/media/draw.ecbd85d488f4a3dab28a.png",
     "static/media/win.png": "/Give-me-rock/static/media/win.0f708c43c8b810e4f3b4.png",
+    "static/media/Palm2.png": "/Give-me-rock/static/media/Palm2.8985cca2203f3b57cedc.png",
     "static/media/Kilua scissor.png": "/Give-me-rock/static/media/Kilua scissor.3fe44698892813a544d8.png",
     "static/media/Kurapika paper.png": "/Give-me-rock/static/media/Kurapika paper.2070fecddd2d9e610018.png",
+    "static/media/Palm1.png": "/Give-me-rock/static/media/Palm1.25eb111e7ef8471e6c01.png",
+    "static/media/Palm3.png": "/Give-me-rock/static/media/Palm3.6aecdf982893958173bd.png",
+    "static/media/Palm4.png": "/Give-me-rock/static/media/Palm4.376cc817a53025703e5d.png",
     "static/media/paper.jpg": "/Give-me-rock/static/media/paper.d49788355cc4d26f7a1e.jpg",
     "static/media/rock.jpg": "/Give-me-rock/static/media/rock.d8cf62a61171b7cc58c6.jpg",
     "static/media/scissor.jpg": "/Give-me-rock/static/media/scissor.30babde513457814fa96.jpg",
+    "static/media/Back.webp": "/Give-me-rock/static/media/Back.801a5bd72bd0c477e671.webp",
     "static/media/Gon rock.webp": "/Give-me-rock/static/media/Gon rock.8ac1c4df83bdbb7725f8.webp",
     "index.html": "/Give-me-rock/index.html",
-    "main.21c4467e.css.map": "/Give-me-rock/static/css/main.21c4467e.css.map",
-    "main.1d68dc05.js.map": "/Give-me-rock/static/js/main.1d68dc05.js.map"
+    "main.9022d322.css.map": "/Give-me-rock/static/css/main.9022d322.css.map",
+    "main.775ddc71.js.map": "/Give-me-rock/static/js/main.775ddc71.js.map"
   },
   "entrypoints": [
-    "static/css/main.21c4467e.css",
-    "static/js/main.1d68dc05.js"
+    "static/css/main.9022d322.css",
+    "static/js/main.775ddc71.js"
   ]
 }
