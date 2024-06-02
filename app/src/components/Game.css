@@ -1,7 +1,39 @@
 /* Game.css */
 .game-component {
     text-align: center;
-  }
+    display: flex;
+    justify-content: center; /* Center horizontally */
+    align-items: center;
+}
+
+.score-container {
+    display: flex;
+    flex-direction: column; /* Arrange items vertically */
+    align-items: center; /* Center horizontally */
+}
+
+.hearts svg {
+    margin: 10px;
+    font-size: 1.5rem;
+    color: red;
+}
+
+.hearts *.lost {
+    color: rgb(222, 166, 166);
+}
+
+.palm img {
+    width: 150px;
+    height: 170px;
+    transition: opacity 0.5s ease-in-out;
+}
+
+.cards-container {
+    display: flex;
+    flex-direction: column; /* Arrange items vertically */
+    align-items: center; /* Center horizontally */
+    margin-left: 50px; /* Add some space between the two columns */
+}
   
   .image-selection {
     display: flex;

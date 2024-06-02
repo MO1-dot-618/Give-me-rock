@@ -18,7 +18,7 @@ export default function App() {
             <p>
               Play Rock, Paper, Scissors with Gon! <br />
               Select the card you want and submit. <br />
-              You have 3 rounds to win!
+              You have 3 chances to score high!
             </p>
             <button onClick={startGame}>Play</button>
           </>
